@@ -1,4 +1,5 @@
 # 读过的好书
+- 阅读神器（支持所有主流电子书格式：pdf,chm,epub,mobi等） SumatraPDF https://www.sumatrapdfreader.org/free-pdf-reader
 ## 运动健康
 - 村上春树《当我谈跑步时我谈些什么》  [链接](./books/村上春树《当我谈跑步时我谈些什么》.txt)
 - 乔治-希恩《跑步圣经:我跑故我在》
